@@ -1,8 +1,8 @@
-.satellite-icon text {
+.beacon-icon text {
     opacity: 0;
     pointer-events: none;
 }
-.satellite-icon:hover text {
+.beacon-icon:hover text {
     font-weight: bold;
     /* stroke: white; */
     fill: black;
